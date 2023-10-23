@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+"What are ""aesthetics?""<br>"	philosophical inquiry into the nature and expression of beauty<br>
+"What is ""art criticism""?<br>"	Explanation of current art events to the general<br>public via the press.
+What does fine art include?<br>	Nerd shit, so paintings, prints, architecture, sculpture, drawing<br>PPASD<br>
+What is formal analysis?<br>	Looking at the visual qualities of the work of art<br>
+What is contextual analysis?<br>	Looking at the artworks context (duh), like where/when it was created, it's purpose, patronage, etc.<br>
+Who was Pliny the Elder?<br>	An ancient roman historian (23-79 CE), who analyzed art in a book titled *Natural History*<br>
+Who was Giorgio Vasari?<br>	Renaissance writer who wrote *The Lives of Artists*<br>
+Who was Johann Joachim Winckelmann?<br>	A German scholar who emphasized rigorous study of style rather than biographical studies of the artists.<br>
+Where is Chauvet Cave?<br>	Southeastern France<br>
+When were the Chauvet Cave paintings made?<br>	They are dated to about 30,000 BCE, in the Old Stone Age<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What pigments were used in Chauvet Cave?<br>	Red and (very little) yellow ochre, charcoal outlines<br>
+When did Cycladic art fluorish?<br>	3200 to 2000 BCE<br>
+What did Cycladic art focus on?<br>	Simplified, geometric, nude female figures<br>decorated pottery<br>marble bowls and jars<br>
+When did Minoan art fluorish?<br>	about 2000 BCE<br>
+What did Michelangelo di Buonarotti sculpt	Turned flawed marble into sculpture of David<br>Sculpted Moses, The Dying Slave, The Bound Slave
+What did the pope commission Michelangelo to do?	Pope commissioned his own tomb, then canceled tomb project, then commisioned him to paint ceiling of Sistine Chapel (700 sq yd)
+What is Leonardo da Vinci known as?	MAPSSEI: Musician, architect, painter, sculpter, scientist, engineer, inventor
+What did Leonardo da Vinci paint and why was it famous?	The Last Supper and Mona Lisa because sfumato (mellow colors and blurred outlines).
+Giotto di Bondone served as the connection between which two art eras?	Gothic and Renaissance
+What did Lorenzo Ghiberti make?	Doors of Paradise

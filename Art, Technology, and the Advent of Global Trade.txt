@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+Who went on crazy journeys around the world with their full rigged ships?	Edward Kenway, Christopher Colombus, Vasco De Gama, John Cabot
+Who was Johannes Gutenberg?	The white guy who made the moveable type press<br>We yellow fellas made it first but we let it slide
+Who were the earliest printers?	The Sumerians, who made relief impresions on clay
+Who made Melencolia I	Albrecht Durer
+How did Durer protect the money he made from his art?	He filed the first lawsuit over artistic copyright in 1506.
+What does Melencolia I represent?	The intellectual situation of the artist
+What does the Roman numeral I mean on Melencolia I	The first level of melancholy - artistic melancholy
+What does the ray of light in Melecolia represent?	"It sits in contrast to the dreary image, offering a ""more hopeful message.""&nbsp;"
+What is the angel lady holding?	A compass (the one gualch made you get)
+What tools is the angel lady surrounded by in Melencholia?	&nbsp;Mathematician tools and art tools
+What was meloncholy linked to?	creative genius! but also insanity<br>not that they're that different
+How did Italian art influence Melencholia I?	Durer added volume and dimensionality, which were prized by the Italian nerds with hatch marks, lines, and contrasts.
+What was stipple engraving?	Designs made by a buncha small dots on a metal surface.
+Where was the compass invented?<br>	China
+When + where was paper invented?<br>	In 200 CE, China<br>
+Why did the Chinese give up their moveable type prints?<br>	Wooden typography was not very durable: soft material wore out quickly, and the porous wood<br>absorbed a great deal of ink.
+How did moveable types come back in China?<br>	Wang Chen published <i>Nang Shu</i>, making more durable blocks. He employed this to make the first mass produced book<br>
+How quickly was literacy in European countries growing around the time the printing press was developed?<br>	The amount of literate people nearly doubled each century<br>
+What was a matrix (art not math pls)?<br>	A way to make a repeated image fr<br>
+What was a woodcut (woodblock print)?<br>	A design carved into a piece of wood, the oldest form of printmaking<br>
+What was engraving?<br>	Embellishing metal surfaces with embellished surfaces<br>
+What is a burin?<br>	A steel shaft with a diamond tip, to cut into a metal plate<br>
+Why were metal plates better than wood?<br>	allow for more impressions to be made before they begin to deteriorate. The process of engraving also allows form more diversity and fluidity in line-making and more subtle use of tone and shading,
+What is linear perspective?<br>	One point perspective, scientific perspective...<br>a systematized, geometrically based procedure for projecting the illusion of space onto a two-dimensional surface<br>grid lines extending outward to join at a point<br>
+What are orthogonals?<br>	They are diagonal lines that join together to a single point<br>
+Who invented linear perspective?<br>	Italian architect Filippo Brunelleschi, bane of acadec students<br>
+What was cristallo glass?<br>	A nearly perfectly clear glass made with lixiviation<br>
+Where was cristallo glass invented?<br>	Venice
+What was cristallo glass named after?<br>	"rocca di cristallo, or ""rock crystal"" in italian<br>"
+Who invented cristallo?<br>	Angelo Barovier<br>
+What was the flux (in the context of producing cristallo glass)?<br>	A magic thingy added to lower the melting point of the silica<br>
+Where was the flux for cristallo glass obtained?<br>	"From the ashes of&nbsp;<i>allume catina,</i>&nbsp;this plant:<br><img src=""220px-Salsola_soda.jpg"">"
+What did manganese dioxide do (in making cristallo glass)?<br>	Decolorized the stuff to make it neato<br>
+What is the Behaim Beaker?<br>	A cup made of cristallo glass, depicting the Behaim coat of arms and other stuff<br>
+Which saints are on the Behaim cup?<br>	Saint Catherine and Michael<br>
+Why was the Behaim Beaker (presumably) created?<br>	To celebrate the union of Michael Behaim and Katharina Locherin (hence the saint names)<br>
+Who was Michael Behaim?<br>	A knight and civic official in Nuremberg<br>
+Who was Katharina Locherin?<br>	The daughter of a rich merchant who controlled trade between Venice and Nuremberg<br>
+What are some issues with the Behaim Beaker?<br>	What should be an eagle on the top of the crest has been made into a white, goose-like bird. The shield, too, is missing its cutout (called a bouche), and the helm lacks the breathing holes that are normally featured on Nuremberg-made versions of this coat of arms.
+What is Benin bronze actually?<br>	Most are actually leaded brass<br>
+What is lost wax casting?<br>	Building a mold around a sacrificial wax model
+What did the rich guys in Florence do with their money?	They built giant palaces to show off
+Why was&nbsp;<i>The Anunciation</i>&nbsp;made?	Cosimo de' Meidici wanted to show off&nbsp;
+Where was&nbsp;<i>The Anunciation</i>&nbsp;intended to go?	probably to hang over a door/bed
+What does&nbsp;<i>The Anunciation</i>&nbsp;show?	The anunciation of the virgin mary
+Who was Leon Battista Alberti?	Authored De Pictura, the first printed book to codify the geometry of linear perspective
+How many masts and sails does a full rigged ship have?	Three masts and five/six square sails
+Style for: Judith and Her Maidservant with the Head of Holofernes	Baroque
+Who made Judith and Her Maidservant with the Head of Holofernes?	Artemisia Gentileschi
+What does Baroque mean?	"It is thought to come from a Portugese word (barroco) meaning ""luxurious yet contorted"""
